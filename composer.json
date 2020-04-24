@@ -24,6 +24,6 @@
         }
     },
 	"require": {
-        "bangerkuwranger/google-cloud-storage-php-wrapper": "dev-master"
+        "bangerkuwranger/google-cloud-storage-php-wrapper": "master"
     }
 }
